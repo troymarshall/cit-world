@@ -18,6 +18,16 @@ The slides for this workshop were authored in markdown and converted to HTML and
 - April 5:  Discuss requirements 3 & 4. Scouts should come prepared for discussion by completing homework for these requirements prior to the class. Discuss homework for Session 3.
 - April 19: Discuss requirements 5, 6 & 7. Wrap up.
 
+### Session 1 Homework
+
+Before session 2:
+
+Perform the following research and learning, be prepared to discuss in session 2.
+ - 3.a Using the current Coronavirus pandemic as a subject, research how a country's national interest and its relationship with other countries might affect areas such as its security, its economy, its values, and the health of its citizens.
+ - 3.b Select a country and research how its geography, natural resources, and climate influence its economy and its global partnerships with other countries.
+ - 4.b Using resources such as major daily newspapers, the Internet (with your parent's permission), and news magazines, observe a current issue that involves international trade foreign exchange, balance of payments, tariffs, and free trade.
+ - 4.c Select 2 organizations from requirement 4.c and describe their role in the world.
+
 ## Helpful Resources
 
 [Merit badge worksheet](http://usscouts.org/usscouts/mb/mb004.asp)
