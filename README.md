@@ -18,4 +18,4 @@ Please download the [merit badge worksheet](http://usscouts.org/usscouts/mb/mb00
 [The Citizenship in the World Merit Badge on ScoutSmarts](https://scoutsmarts.com/citizenship-in-the-world-merit-badge-guide/)
 [US State Department](https://www.state.gov/)
 [CIA World Factbook](https://www.cia.gov/library/publications/resources/the-world-factbook/)
-
+[Newspapers and news sources](https://utas.libguides.com/c.php?g=498335&p=3412521)
