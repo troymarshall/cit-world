@@ -4,7 +4,7 @@ The information in this project is used in the preparation and presentation of t
 
 The course is expected to be broke up into 3 sessions.
 
-Please download the [merit badge worksheet](http://usscouts.org/usscouts/mb/mb004.asp) prior to class.
+Please download  and print the [merit badge worksheet](http://usscouts.org/usscouts/mb/mb004.asp) prior to class.
 
 ## Citizenship in the World Online Merit Badge Workshop Schedule
 
