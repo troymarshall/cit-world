@@ -12,4 +12,10 @@ Please download the [merit badge worksheet](http://usscouts.org/usscouts/mb/mb00
 - April 5:  Discuss requirements 3 & 4. Scouts should come prepared for discussion by completing homework for these requirements prior to the class. Discuss homework for Session 3.
 - April 19: Discuss requirements 5, 6 & 7. Wrap up.
 
+## Helpful Resources
+
+[Merit badge worksheet](http://usscouts.org/usscouts/mb/mb004.asp)
+[The Citizenship in the World Merit Badge on ScoutSmarts](https://scoutsmarts.com/citizenship-in-the-world-merit-badge-guide/)
+[US State Department](https://www.state.gov/)
+[CIA World Factbook](https://www.cia.gov/library/publications/resources/the-world-factbook/)
 
