@@ -6,6 +6,8 @@ The course is expected to be broke up into 3 sessions.
 
 Please download  and print the [merit badge worksheet](http://usscouts.org/usscouts/mb/mb004.asp) prior to class.
 
+Scouts, please obtain permission from a parent before visiting any online resources.
+
 ## Presentation
 
 The slides for this workshop were authored in markdown and converted to HTML and PDF using [Marp for VSCode](https://github.com/marp-team/marp-vscode).

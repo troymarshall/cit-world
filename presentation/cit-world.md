@@ -31,6 +31,7 @@ inlineSVG: true
 
 ## Expectations
 
+- Obtain permission from a parent before visiting any online resources.
 - You must participate in discussion in order to get credit for completing requirements.
 - A discussion on world citizenship is not a political debate, keep politics to a minimum.
 - Complete homework prior to session 2 and 3. 
