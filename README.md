@@ -6,6 +6,10 @@ The course is expected to be broke up into 3 sessions.
 
 Please download  and print the [merit badge worksheet](http://usscouts.org/usscouts/mb/mb004.asp) prior to class.
 
+## Presentation
+
+The slides for this workshop were authored in markdown and converted to HTML and PDF using [Marp for VSCode](https://github.com/marp-team/marp-vscode).
+
 ## Citizenship in the World Online Merit Badge Workshop Schedule
 
 - March 22: Review class logistics, schedule. Review requirements and expectations. Discuss Requirements 1, 2. Discuss homework for Session 2.
